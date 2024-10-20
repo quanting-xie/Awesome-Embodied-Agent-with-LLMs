@@ -46,6 +46,9 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 > ### Survey
 
+* [**Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis**](https://arxiv.org/abs/2312.08782) [**arXiv 2023.12**]<br>
+CMU, Bosch Center for AI, MIT, Field AI, Georgia Tech, FAIR at Meta, UC San Diego, SAIR Lab, Google DeepMind
+
 * [**A Survey on Vision-Language-Action Models for Embodied AI**](https://arxiv.org/pdf/2405.14093) [**arXiv 2024.03**]<br>
 The Chinese University of Hong Kong, Huawei Noah’s Ark Lab
 
@@ -388,6 +391,12 @@ Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 <sup>1</sup>The Hong Kong University of Science and Technology <sup>2</sup>The University of Hong Kong 3Shanghai Jiao Tong University
 
 > ### 3D Grounding
+
+* [**Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation**](https://arxiv.org/abs/2409.18313) [**arXiv 2024**]  <br>
+Quanting Xie<sup>1,*</sup>, So Yeon Min<sup>1,*</sup>, Tianyi Zhang<sup>1</sup>, Kedi Xu, Aarav Bajaj<sup>1</sup>, Ruslan Salakhutdinov<sup>1</sup>, Matthew
+Johnson-Roberson<sup>1</sup>, Yonatan Bisk<sup>1</sup><br>
+<sup>1</sup>Carnegie Mellon University
+
 * [**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**](https://arxiv.org/pdf/2309.12311.pdf) [**arXiv 2023**]  <br>
 Jianing Yang<sup>1,*</sup>, Xuweiyi Chen<sup>1,*</sup>, Shengyi Qian<sup>1</sup>, Nikhil Madaan, Madhavan Iyengar<sup>1</sup>, David F. Fouhey<sup>1,2</sup>, Joyce Chai<sup>1</sup><br>
 <sup>1</sup>University of Michigan, <sup>2</sup>New York University
